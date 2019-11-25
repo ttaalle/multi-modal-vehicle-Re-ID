@@ -10,14 +10,12 @@ RGBNT100
 link：https://pan.baidu.com/s/1xqqh7N4Lctm3RcUdskG0Ug 
 Extraction code：rjin
 
-</br>
 
 ## HAMNet
 
-</br>
-![这个括号里写的在图片加载失败时显示](https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/challenge.jpg)
 
-</br>
+![头像](https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg)
+
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)
 
 1.cd to folder where you want to download this repo

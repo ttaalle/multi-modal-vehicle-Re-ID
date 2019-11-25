@@ -77,3 +77,7 @@ The data structure would like:
                         query
 To propose a stronger baseline, this version has been added bag of tricks(Random erasing augmentation, Label smoothing and BNNeck) as [Strong ReID-baseline](https://github.com/michuanhaohao/reid-strong-baseline).
 
+### train
+You can run these commands in `.sh` files for training different datasets of differernt loss. You can also directly run code sh `*.sh` to run our demo after your custom modification.
+'python3 train.py --config_file='softmax_triplet.yml' MODEL.DEVICE_ID "('your device id')" DATASETS.NAMES "('rgbir')" OUTPUT_DIR "('your path to save checkpoints and logs')"'
+

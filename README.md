@@ -15,7 +15,7 @@ RGBNT100
 ## HAMNet
 
 </br>
-<img src="https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/challenge.jpg" width="450" height="600" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/challenge.jpg" width="450" height="600" alt="111"/>
 
 </br>
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)

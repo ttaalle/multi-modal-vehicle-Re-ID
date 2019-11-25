@@ -23,7 +23,11 @@ Extraction code：rjin
         month = {February},
         year = {2020}
         }
-
+### Results 
+|列名1|列名2|
+|:---|:---|
+|列1的内容1|列2的内容1|
+|列1的内容2|列2的内容2|
 ### Get Started
 
 The designed architecture follows this guide PyTorch-Project-Template, you can check each folder's purpose by yourself. The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline). 
@@ -75,7 +79,7 @@ The data structure would like:
                         bounding_box_test/
                         bounding_box_train/
                         query
-To propose a stronger baseline, this version has been added bag of tricks(Random erasing augmentation, Label smoothing and BNNeck) as [Strong ReID-baseline](https://github.com/michuanhaohao/reid-strong-baseline).
+
 
 ### train
         
@@ -83,4 +87,8 @@ To propose a stronger baseline, this version has been added bag of tricks(Random
         
 ### test
         python3 test.py --config_file='softmax_tripletr.yml' MODEL.DEVICE_ID "('your device id')" DATASETS.NAMES "('rgbir')" MODEL.PRETRAIN_CHOICE "('self')" TEST.WEIGHT "('your path to trained checkpoints')"
+        
+        
+        
+To propose a stronger baseline, this version has been added bag of tricks(Random erasing augmentation, Label smoothing and BNNeck) as [Strong ReID-baseline](https://github.com/michuanhaohao/reid-strong-baseline).
 

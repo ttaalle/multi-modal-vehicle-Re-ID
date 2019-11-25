@@ -15,7 +15,7 @@ Extraction code：rjin
 ## HAMNet
 
 </br>
-<img src="https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/challenge.jpg" width="450" height="600" alt="111"/>
+![111](https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/challenge.jpg)
 
 </br>
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)

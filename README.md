@@ -11,7 +11,7 @@ RGBNT100
 提取码：rjin
 
 ## HAMNet
-<img src="https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/fig.jpg" width="150" height="150" alt="figure">
+<img src="https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/fig.jpg" width="150" height="150" alt="figure"/>
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)
 
 1.cd to folder where you want to download this repo

@@ -24,10 +24,10 @@ Extraction code：rjin
         year = {2020}
         }
 ### Results 
-|列名1|列名2|
+|1|2|
 |:---|:---|
-|列1的内容1|列2的内容1|
-|列1的内容2|列2的内容2|
+|1|1|
+|2|2|
 ### Get Started
 
 The designed architecture follows this guide PyTorch-Project-Template, you can check each folder's purpose by yourself. The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline). 

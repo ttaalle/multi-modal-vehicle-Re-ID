@@ -13,7 +13,7 @@ Extraction code：rjin
 
 
 ## HAMNet
-
+![RGB-NIR-TIR](fig/frame.jpg)
 
 
 

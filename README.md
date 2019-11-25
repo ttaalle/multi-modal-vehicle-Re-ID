@@ -10,10 +10,14 @@ RGBNT100
 链接：https://pan.baidu.com/s/1xqqh7N4Lctm3RcUdskG0Ug 
 提取码：rjin
 
+</br>
+
 ## HAMNet
+
 </br>
 <img src="https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/challenge.jpg" width="450" height="600" alt="图片加载失败时，显示这段字"/>
 
+</br>
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)
 
 1.cd to folder where you want to download this repo

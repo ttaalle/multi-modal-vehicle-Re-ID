@@ -16,6 +16,14 @@ Extraction code：rjin
 ### Pipeline
 ![RGB-NIR-TIR](fig/frame.jpg)
 
+        @InProceedings{Li_2020_AAAI,
+        author = {Hongchao Li, Chenglong Li, Xianpeng Zhu, Aihua Zheng and Bin Luo},
+        title = {Multi-spectral Vehicle Re-identification: A Challenge},
+        booktitle = {AAAI},
+        month = {February},
+        year = {2020}
+        }
+
 ### Get Started
 
 The designed architecture follows this guide PyTorch-Project-Template, you can check each folder's purpose by yourself. The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline). 

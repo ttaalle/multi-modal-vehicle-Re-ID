@@ -11,5 +11,10 @@ RGBNT100
 提取码：rjin
 
 ## HAMNet
+The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)
+1.cd to folder where you want to download this repo
 
+2.Run git clone https://github.com/michuanhaohao/multi-modal-vehicle-Re-ID.git
+
+3.
 

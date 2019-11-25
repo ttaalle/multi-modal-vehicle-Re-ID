@@ -20,7 +20,7 @@ Extraction code：rjin
 
 The designed architecture follows this guide PyTorch-Project-Template, you can check each folder's purpose by yourself. The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline). 
 
-1."""cd""" to folder where you want to download this repo
+1.'''cd''' to folder where you want to download this repo
 
 2.Run git clone https://github.com/ttaalle/multi-modal-vehicle-Re-ID.git
 

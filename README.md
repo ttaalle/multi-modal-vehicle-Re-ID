@@ -12,6 +12,7 @@ RGBNT100
 
 ## HAMNet
 <div align=center><img width="850" height="406" src="https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/fig.jpg"/></div>
+
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)
 
 1.cd to folder where you want to download this repo

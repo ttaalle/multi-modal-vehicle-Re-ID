@@ -1,6 +1,7 @@
 # Multi-spectral Vehicle Re-identification: A Challenge
 ## Dataset
 In this work, we address the RGB and IR vehicle Re-ID problem and contribute a multi-spectral vehicle Re-ID benchmark named RGBN300, including RGB and NIR (Near Infrared) vehicle images of 300 identities from 8 camera views, giving in total 50125 RGB images and 50125 NIR images respectively. In addition, we have acquired additional TIR (Thermal Infrared) data for 100 vehicles from RGBN300 to form another dataset for three-spectral vehicle Re-ID. 
+![RGB-NIR-TIR](fig/challenge.jpg)
 
 RGBN300
 link：https://pan.baidu.com/s/1uiKcqiqdhd13nLSW8TUASg 
@@ -14,7 +15,7 @@ Extraction code：rjin
 ## HAMNet
 
 
-![头像](fig/challenge.jpg)
+
 
 
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)

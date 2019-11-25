@@ -58,7 +58,7 @@ The data structure would like:
 
 (2) RGBNT100 dataset
 
-Download dataset and only use `rgbir` to data/ (It is worth noting that the two datasets use the same read interface in our algorithm, so in order to prevent data from being polluted, we should only change the data folder to `rgbir` when running code)
+Download dataset and only use `rgbir` to data/ (It is worth noting that the two datasets use the same read interface in our algorithm, so in order to prevent data from being polluted, we should only change the data folder to `rgbir` when running the code.)
 
 The data structure would like:
 

@@ -43,7 +43,18 @@ You can create a directory to store reid datasets under this repo via
 
         1.cd multi-modal-vehicle-Re-ID
         2.mkdir data
+        
+(1) RGBN300 dataset
 
+Download dataset and only use `rgbir` to data/ 
+
+The data structure would like:
+
+                1.data
+                2.    rgbir # this folder contains 3 files.
+                3.        bounding_box_test/
+                4.        bounding_box_train/
+                5.        query
 
 To propose a stronger baseline, this version has been added bag of tricks(Random erasing augmentation, Label smoothing and BNNeck) as [Strong ReID-baseline](https://github.com/michuanhaohao/reid-strong-baseline).
 

@@ -16,14 +16,26 @@ Extraction code：rjin
 ### Pipeline
 ![RGB-NIR-TIR](fig/frame.jpg)
 
+### Get Started
 
-
-
-The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)
+The designed architecture follows this guide PyTorch-Project-Template, you can check each folder's purpose by yourself. The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline). 
 
 1.cd to folder where you want to download this repo
 
-2.Run git clone https://github.com/michuanhaohao/multi-modal-vehicle-Re-ID.git
+2.Run git clone https://github.com/ttaalle/multi-modal-vehicle-Re-ID.git
 
-3.
+3.Install dependencies:
+  pytorch>=0.4
+  torchvision
+  ignite=0.1.2 
+  yacs
+4. prepare dataset
+Create a directory to store reid datasets under this repo or outside this repo. Remember to set your path to the root of the dataset in config/defaults.py for all training and testing or set in every single config file in configs/ or set in every single command.
+You can create a directory to store reid datasets under this repo via
+
+cd reid-strong-baseline
+mkdir data
+
+
+To propose a stronger baseline, this version has been added bag of tricks(Random erasing augmentation, Label smoothing and BNNeck) as [Strong ReID-baseline](https://github.com/michuanhaohao/reid-strong-baseline).
 

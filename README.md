@@ -11,6 +11,7 @@ RGBNT100
 提取码：rjin
 
 ## HAMNet
+![figure](https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg)
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)
 
 1.cd to folder where you want to download this repo

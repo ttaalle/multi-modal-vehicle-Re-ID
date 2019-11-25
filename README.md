@@ -56,5 +56,16 @@ The data structure would like:
                         bounding_box_train/
                         query
 
+(2) RGBNT100 dataset
+
+Download dataset and only use `rgbir` to data/ (It is worth noting that the two datasets use the same read interface in our algorithm, so in order to prevent data from being polluted, we should only change the data folder to `rgbir` when running code)
+
+The data structure would like:
+
+                data
+                    rgbir # this folder contains 3 files.
+                        bounding_box_test/
+                        bounding_box_train/
+                        query
 To propose a stronger baseline, this version has been added bag of tricks(Random erasing augmentation, Label smoothing and BNNeck) as [Strong ReID-baseline](https://github.com/michuanhaohao/reid-strong-baseline).
 

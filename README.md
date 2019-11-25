@@ -31,11 +31,11 @@ The designed architecture follows this guide PyTorch-Project-Template, you can c
 * yacs 
 
 
-4. prepare Pretraining model on Imagenet
+4.prepare Pretraining model on Imagenet
 
 for example /home/——/.torch/models/resnet50-19c8e357.pth
 
-5. prepare dataset
+5.prepare dataset
 Create a directory to store reid datasets under this repo or outside this repo. Remember to set your path to the root of the dataset in config/defaults.py for all training and testing or set in every single config file in configs/ or set in every single command.
 You can create a directory to store reid datasets under this repo via
 

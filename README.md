@@ -25,6 +25,7 @@ Extraction code：rjin
         }
 ### Results(Rank1(mAP))
 |Modality|RGBN300|RGBNT100|
+|:---|:---|:---|
 |RGB_onestream|72.6(49.5)|58.5(41.0)|
 |NIR_onestream|61.9(42.1)|52.8(37.1)|
 |TIR_onestream|-|61.8(35.7)|

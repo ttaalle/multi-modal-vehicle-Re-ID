@@ -15,7 +15,7 @@ Extraction code：rjin
 ## HAMNet
 
 </br>
-![shibai](https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/challenge.jpg)
+![这个括号里写的在图片加载失败时显示](https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/challenge.jpg)
 
 </br>
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)

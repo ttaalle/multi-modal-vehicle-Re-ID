@@ -23,11 +23,12 @@ Extraction code：rjin
         month = {February},
         year = {2020}
         }
-### Results 
-|1|2|
-|:---|:---|
-|1|1|
-|2|2|
+### Results(Rank1(mAP))
+|Modality|RGBN300|RGBNT100|
+|RGB_onestream|72.6(49.5)|58.5(41.0)|
+|NIR_onestream|61.9(42.1)|52.8(37.1)|
+|TIR_onestream|-|61.8(35.7)|
+|RGB-NIR_multistream|77.2(56.9)|65.4(43.1)|
 ### Get Started
 
 The designed architecture follows this guide PyTorch-Project-Template, you can check each folder's purpose by yourself. The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline). 

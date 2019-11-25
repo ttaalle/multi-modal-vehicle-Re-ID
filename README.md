@@ -11,6 +11,8 @@ RGBNT100
 提取码：rjin
 
 ## HAMNet
+<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+
 <div align=center><img width="850" height="406" src="https://github.com/ttaalle/multi-modal-vehicle-Re-ID/tree/master/fig/fig.jpg"/></div>
 
 The codes are expanded on a [ReID-baseline](https://github.com/L1aoXingyu/reid_baseline)

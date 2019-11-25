@@ -22,7 +22,7 @@ The designed architecture follows this guide PyTorch-Project-Template, you can c
 
 1.`cd` to folder where you want to download this repo
 
-2.Run git clone https://github.com/ttaalle/multi-modal-vehicle-Re-ID.git
+2.Run `git clone https://github.com/ttaalle/multi-modal-vehicle-Re-ID.git`
 
 3.Install dependencies:
   pytorch>=0.4

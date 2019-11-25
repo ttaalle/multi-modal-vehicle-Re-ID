@@ -25,10 +25,13 @@ The designed architecture follows this guide PyTorch-Project-Template, you can c
 2.Run `git clone https://github.com/ttaalle/multi-modal-vehicle-Re-ID.git`
 
 3.Install dependencies:
-1.*pytorch>=0.4
-2.*torchvision
-3.*ignite=0.1.2
-4.*yacs
+
+1. *pytorch>=0.4
+2. *torchvision
+3. *ignite=0.1.2
+4. *yacs
+
+
 4. prepare Pretraining model on Imagenet
 for example /home/——/.torch/models/resnet50-19c8e357.pth
 5. prepare dataset

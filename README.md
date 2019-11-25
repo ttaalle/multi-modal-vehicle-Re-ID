@@ -31,8 +31,8 @@ Extraction code：rjin
 |TIR_onestream|-|61.8(35.7)|
 |RGB-NIR_multistream|77.2(56.9)|65.4(43.1)|
 |RGB-NIR-TIR_multistream|-|82.6(60.5)|
-|RGB-NIR_HAMNet|84.0(61.9)|-|
-|**RGB-NIR-TIR_HAMNet|-|84.7(64.1)|
+|**RGB-NIR_HAMNet**|**84.0(61.9)**|-|
+|**RGB-NIR-TIR_HAMNet**|-|**84.7(64.1)**|
 
 ### Get Started
 

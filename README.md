@@ -30,7 +30,7 @@ The designed architecture follows this guide PyTorch-Project-Template, you can c
 * ignite=0.1.2
 * yacs /<br>
 
-4. prepare Pretraining model on Imagenet
+>4. prepare Pretraining model on Imagenet
 
 for example /home/——/.torch/models/resnet50-19c8e357.pth
 

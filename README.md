@@ -41,9 +41,8 @@ Create a directory to store reid datasets under this repo or outside this repo. 
 
 You can create a directory to store reid datasets under this repo via
 
-`cd multi-modal-vehicle-Re-ID
-
-mkdir data`
+`   cd multi-modal-vehicle-Re-ID
+    mkdir data`
 
 
 To propose a stronger baseline, this version has been added bag of tricks(Random erasing augmentation, Label smoothing and BNNeck) as [Strong ReID-baseline](https://github.com/michuanhaohao/reid-strong-baseline).
